@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Melat 👋
+
+👩‍💻 QA Engineer sharing about my journey and learning in tech <br/>
+👩‍🎓 Studied Computer Engineering at the Liberty University<br/>
+📚 Currently learning about ... and ...<br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Melat's GitHub stats](https://github-readme-stats.vercel.app/api?username=melatemarkos)](https://github.com/melatemarkos/github-readme-stats)
+
 
 <!--
 **melatemarkos/melatemarkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
