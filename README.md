@@ -1,11 +1,16 @@
-### Hi, I'm Melat 👋
-___
+## Hey, I'm Melate 👋
 
-👩‍💻 QA Engineer sharing about my journey and learning in tech <br/>
-👩‍🎓 Studied Computer Engineering at the Liberty University<br/>
-📚 Currently learning about ... and ...<br/>
-___
+<img align="right" width="400" height="200" src="https://github.com/user-attachments/assets/92b0c7a7-ec35-4d7e-bfd9-576c86b36494" alt="QA Engineer GIF">
+<p>
+👩‍💻 QA Engineer passionate about quality and continuous learning.<br/>
+🎓 Computer Engineering graduate from Liberty University.<br/>
+📚 Currently improving skills in test automation and Python.<br/>
+🚀 Always eager to connect and grow in tech!<br/>
 
+</p>
+
+
+<br><br><br>
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -23,7 +28,7 @@ ___
 ___
 ### 📊 GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Melat's GitHub stats](https://github-readme-stats.vercel.app/api?username=melatemarkos)](https://github.com/melatemarkos/github-readme-stats)
+[![Melat's GitHub stats](https://github-readme-stats.vercel.app/api?username=melatemarkos&theme=radical)](https://github.com/melatemarkos/github-readme-stats)
 
 
 <!--
