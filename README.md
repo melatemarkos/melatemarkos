@@ -31,9 +31,9 @@
 
 
 ___
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Melat's GitHub stats](https://github-readme-stats.vercel.app/api?username=melatemarkos&theme=radical)](https://github.com/melatemarkos/github-readme-stats)
+<!-- [![Melat's GitHub stats](https://github-readme-stats.vercel.app/api?username=melatemarkos&theme=radical)](https://github.com/melatemarkos/github-readme-stats)
 
 
 <!--
