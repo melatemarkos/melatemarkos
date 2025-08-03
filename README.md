@@ -2,7 +2,7 @@
 
 <img align="right" width="400" height="200" src="https://github.com/user-attachments/assets/92b0c7a7-ec35-4d7e-bfd9-576c86b36494" alt="QA Engineer GIF">
 <p>
-👩‍💻 Aspiring QA Engineer dedicated to delivering quality-first software through effective testing and continuous learning.<br/>
+👩‍💻 QA Analyst dedicated to delivering quality-first software through effective testing and continuous learning.<br/>
 🎓 Bachelor of Science in Computer Engineering with a Computer Science minor from Liberty University.<br/>
 🧪 ISTQB Certified, specializing in Python, test automation (Selenium, pytest), and exploratory testing.<br/>
 📈 Actively developing a QA automation project featuring real-time test reporting and robust test frameworks.<br/>
