@@ -4,7 +4,7 @@
 <p>
 👩‍💻 QA Analyst dedicated to delivering quality-first software through effective testing and continuous learning.<br/>
 🎓 Bachelor of Science in Computer Engineering with a Computer Science minor from Liberty University.<br/>
-🧪 ISTQB Certified, specializing in Python, test automation (Selenium, pytest), and exploratory testing.<br/>
+🧪 ISTQB Certified <br/>
 📈 Actively developing a QA automation project featuring real-time test reporting and robust test frameworks.<br/>
 🤝 Enthusiastic about connecting, collaborating, and growing within the tech community.<br/>
 
