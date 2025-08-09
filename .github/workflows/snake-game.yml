@@ -1,0 +1,21 @@
+name: Generate Snake Game from Contribution Grid
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake Game
+        uses: andydoz/snake-game-from-github-contribution-grid@v1.3.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'snake-game.svg'   # Save at repo root
+          theme: 'dark'                  # Dark theme for dark backgrounds
+          animation: 'true'              # Enable animation
