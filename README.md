@@ -1,4 +1,4 @@
-## Hey, I'm Melate 👋
+## Hi, I'm Melate 👋
 
 <img align="right" width="400" height="200" src="https://github.com/user-attachments/assets/92b0c7a7-ec35-4d7e-bfd9-576c86b36494" alt="QA Engineer GIF">
 <p>
@@ -28,6 +28,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melatemarkos&size_weight=0.5&count_weight=0.5)](https://github.com/melatemarkos/github-readme-stats)
+
+![snake_gif](https://github.com/melatemarkos/melatemarkos/blob/output/github-snake-dark.svg)
 
 
 ___
